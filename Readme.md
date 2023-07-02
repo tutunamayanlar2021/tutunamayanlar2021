@@ -7,7 +7,7 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" height="190" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=6" height="190" />
 </p>
 
 | Property  |   Data    |
