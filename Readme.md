@@ -4,8 +4,7 @@
 <p align="center">
   <img src="https://media.tenor.com/knLw-Jlx8voAAAAC/welcome-to-my-profile-welcome.gif" alt="Resim Açıklaması" width="1000">
 </p>
-
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" height="190" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=6" height="190" />
 </p>
@@ -18,7 +17,8 @@
 |  **Tools**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/xcode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio">]()   |
 |  **Database**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite">]()|
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&layout=pie&theme=dark)](https://github.com/tutunamayanlar2021/github-readme-stats)
+
+
 
 ![snake gif](https://github.com/tutunamayanlar2021/tutunamayanlar2021/blob/output/github-contribution-grid-snake.gif)
-
-
