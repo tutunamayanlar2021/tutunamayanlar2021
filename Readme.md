@@ -33,6 +33,15 @@
 </a>
 </p>
 
+| Property  |   Data    |
+| --------- | --------- |
+| **Connect with me**   | [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](linkedin.com/in/kader-oral-4464331a5)
+      |
+| **Framework & Language**  | $0.80     |
+| **Familarity**    | $0.50     |
+|  **Tools**    | $1.20     |
+
+
 ### **Framework & Language**
 <p align='left'>
 </a> 
