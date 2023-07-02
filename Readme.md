@@ -22,13 +22,30 @@
   <img src="https://github.com/tutunamayanlar2021/tutunamayanlar2021/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
 
-| Property|   Data|
-| --------- | --------- |
-| **Connect with me**   |   [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://www.linkedin.com/in/kader-oral-4464331a5)|
-| **Framework & Language**  | [<img height="32" width="32" src="https://cdn.simpleicons.org/swift">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/flutter">]() [<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">]()|
-| **Familarity**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/python">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/csharp">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/c++">]()[<img height="32" width="32" src="https://cdn.simpleicons.org/selenium">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql">]()   |
-|  **Tools**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/xcode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio">]()   |
-|  **Database**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite">]()|
+
+
+<div style="text-align: center;">
+  <table align="center">
+    <tr>
+      <th></th>
+      <th style="padding: 10px;">Connect with me</th>
+      <th style="padding: 10px;">Framework & Language</th>
+      <th style="padding: 10px;">Familiarity</th>
+      <th style="padding: 10px;">Tools</th>
+      <th style="padding: 10px;">Database</th>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Property</td>
+      <td style="padding: 10px; vertical-align: middle;"><a href="https://www.linkedin.com/in/kader-oral-4464331a5"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></td>
+      <td style="padding: 10px; vertical-align: middle;"><img height="32" width="32" src="https://cdn.simpleicons.org/swift"><img height="32" width="32" src="https://cdn.simpleicons.org/flutter"><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
+      <td style="padding: 10px; vertical-align: middle;"><img height="32" width="32" src="https://cdn.simpleicons.org/python"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp"><img height="32" width="32" src="https://cdn.simpleicons.org/c++"><img height="32" width="32" src="https://cdn.simpleicons.org/selenium"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"></td>
+      <td style="padding: 10px; vertical-align: middle;"><img height="32" width="32" src="https://cdn.simpleicons.org/xcode"><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"><img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio"></td>
+      <td style="padding: 10px; vertical-align: middle;"><img height="32" width="32" src="https://cdn.simpleicons.org/firebase"><img height="32" width="32" src="https://cdn.simpleicons.org/sqlite"></td>
+    </tr>
+  </table>
+</div>
+
+
 
 
 
