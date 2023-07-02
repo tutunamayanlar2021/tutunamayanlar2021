@@ -29,7 +29,7 @@
       <th style="padding: 10px;">Database</th>
     </tr>
     <tr>
-      <td style="padding: 10px;">Property</td>
+      <td style="padding: 10px;">Data</td>
       <td style="padding: 10px; vertical-align: middle;"><a href="https://www.linkedin.com/in/kader-oral-4464331a5"><img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a></td>
       <td style="padding: 10px; vertical-align: middle;"><img height="32" width="32" src="https://cdn.simpleicons.org/swift"><img height="32" width="32" src="https://cdn.simpleicons.org/flutter"><img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></td>
       <td style="padding: 10px; vertical-align: middle;"><img height="32" width="32" src="https://cdn.simpleicons.org/python"><img height="32" width="32" src="https://cdn.simpleicons.org/csharp"><img height="32" width="32" src="https://cdn.simpleicons.org/c++"><img height="32" width="32" src="https://cdn.simpleicons.org/selenium"><img height="32" width="32" src="https://cdn.simpleicons.org/postgresql"></td>
