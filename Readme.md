@@ -4,10 +4,15 @@
 <p align="center">
   <img src="https://media.tenor.com/knLw-Jlx8voAAAAC/welcome-to-my-profile-welcome.gif" alt="Resim Açıklaması" width="1000">
 </p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=6" height="190" />
+
+<p align="center">
+  <img height="200" width="140"src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/left.png"  />
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" />
+  <img height="190"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=6" 
+  <source  srcset=" ">
+  <img height="200" width="140" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/right.png" height="190" />
 </p>
+
 
 | Property  |   Data    |
 | --------- | --------- |
