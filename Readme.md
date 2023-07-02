@@ -6,11 +6,11 @@
 </p>
 
 <p align="center">
-  <img height="200" width="140"src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/left.png"/>
+  <img height="120" width="140"src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/left.png"/>
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" />
   <img height="190"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=6" 
   <source  srcset=" ">
-  <img height="200" width="140" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/right.png" height="190" />
+  <img height="120" width="140" src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/main/assets/right.png" height="190" />
 </p>
 
 
