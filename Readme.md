@@ -18,12 +18,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=6" height="190" />
 </p>
 
-<p align="center" >
-  <img src="https://github.com/tutunamayanlar2021/tutunamayanlar2021/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
-</p>
-
-
-
 <div style="text-align: center;">
   <table align="center">
     <tr>
@@ -44,6 +38,14 @@
     </tr>
   </table>
 </div>
+
+
+<p align="center" >
+  <img src="https://github.com/tutunamayanlar2021/tutunamayanlar2021/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
+</p>
+
+
+
 
 
 
