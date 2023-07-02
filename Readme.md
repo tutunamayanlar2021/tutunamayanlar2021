@@ -12,21 +12,6 @@
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" />
 </p>
 
-### **Tools**
-<p align='left'>
-</a> 
-<a href=''>
-<img height="32" width="32" src= "https://cdn.simpleicons.org/visualstudiocode" />
-</a>
-<a href=''>
-  
-<img height="32" width="32" src= " https://cdn.simpleicons.org/xcode" />
-</a>
-<a href=''>
-
-<img height="32" width="32" src= " https://cdn.simpleicons.org/androidstudio" />
-</a>
-</p>
 
 | Property  |   Data    |
 | --------- | --------- |
@@ -36,14 +21,4 @@
 |  **Tools**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/xcode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio">]()   |
 |  **Database**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite">]()|
 
-### **Database**
-<p align='left'>
-</a> 
-<a href=''>
-<img height="32" width="32" src= "https://cdn.simpleicons.org/firebase" />
-</a>
-</a> 
-<a href=''>
-<img height="32" width="32" src= "https://cdn.simpleicons.org/sqlite" />
-</a>
-</p>
+
