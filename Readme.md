@@ -1,20 +1,15 @@
 # Hi I'm Kader 👋
-![selam](https://i.giphy.com/media/3o8dp4AJDl5aI4qqI0/giphy.webp)
 
-<h1> tadilat var  </h1>
+
+<p align="center">
+  <img src="https://i.giphy.com/media/3o8dp4AJDl5aI4qqI0/giphy.webp" alt="Resim Açıklaması">
+</p>
+
 <p style="color:red;background-color:white"> Hello World </p>
 
 <p align="left">
   <img height="190" src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" />
   <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" />
-</p>
-
-### **Connect with me**
-<p align='left'>
-</a> 
-<a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/linkedin" />
-</a>
 </p>
 
 ### **Tools**
@@ -36,58 +31,19 @@
 | Property  |   Data    |
 | --------- | --------- |
 | **Connect with me**   |   [<img height="32" width="32" src="https://cdn-icons-png.flaticon.com/512/174/174857.png">](https://www.linkedin.com/in/kader-oral-4464331a5)|
-| **Framework & Language**  | $0.80     |
-| **Familarity**    | $0.50     |
-|  **Tools**    | $1.20     |
-
-
-### **Framework & Language**
-<p align='left'>
-</a> 
-<a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/swift" />
-</a>
-</a> 
-<a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/flutter" />
-</a>
-</a> 
-<a href=''>
-<img height="40" width="40" src= "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-</a>
-</p>
-
-### **Familarity**
-<p align='left'>
-</a> 
-<a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/python" />
-</a>
-</a> 
-<a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/csharp" />
-</a>
-</a> 
-<a href=''>
-<img height="32" width="32" src= "https://cdn.simpleicons.org/c++" />
-</a>
-<a href=''>
-<img height="32" width="32" src= "https://cdn.simpleicons.org/selenium" />
-</a>
-</a>
-<a href=''>
-<img height="32" width="32" src= "https://cdn.simpleicons.org/postgresql" />
-</a>
-</p>
+| **Framework & Language**  | [<img height="32" width="32" src="https://cdn.simpleicons.org/swift">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/flutter">]() [<img height="32" width="32" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">]()|
+| **Familarity**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/python">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/csharp">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/c++">]()[<img height="32" width="32" src="https://cdn.simpleicons.org/selenium">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/postgresql">]()   |
+|  **Tools**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/xcode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio">]()   |
+|  **Database**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite">]()|
 
 ### **Database**
 <p align='left'>
 </a> 
 <a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/firebase" />
+<img height="32" width="32" src= "https://cdn.simpleicons.org/firebase" />
 </a>
 </a> 
 <a href=''>
-<img height="32" width="32" src= " https://cdn.simpleicons.org/sqlite" />
+<img height="32" width="32" src= "https://cdn.simpleicons.org/sqlite" />
 </a>
 </p>
