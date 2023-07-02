@@ -4,14 +4,9 @@
 <h1> tadilat var  </h1>
 <p style="color:red;background-color:white"> Hello World </p>
 
-<p align=left'>
-</a> 
-<a href=''>
-<img height="190"  src= " https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" />
-</a>
-<a href=''>
-<img height="190" src= " https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" />
-</a>
+<p align="left">
+  <img height="190" src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" />
+  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" />
 </p>
 
 ### **Connect with me**
@@ -29,9 +24,11 @@
 <img height="32" width="32" src= "https://cdn.simpleicons.org/visualstudiocode" />
 </a>
 <a href=''>
+  
 <img height="32" width="32" src= " https://cdn.simpleicons.org/xcode" />
 </a>
 <a href=''>
+
 <img height="32" width="32" src= " https://cdn.simpleicons.org/androidstudio" />
 </a>
 </p>
