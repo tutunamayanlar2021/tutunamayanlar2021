@@ -2,16 +2,15 @@
 
 
 <p align="left">
-  <img src="https://i.giphy.com/media/3o8dp4AJDl5aI4qqI0/giphy.webp" alt="Resim Açıklaması">
+  <img src="https://i.giphy.com/media/3o8dp4AJDl5aI4qqI0/giphy.webp" alt="Resim Açıklaması" width="500">
 </p>
 
 <p style="color:red;background-color:white"> Hello World </p>
 
 <p align="left">
-  <img height="190" src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" />
-  <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&theme=dark" height="190" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tutunamayanlar2021&show_icons=true&theme=dark&langs_count=8" height="190" width="250" />
 </p>
-
 
 | Property  |   Data    |
 | --------- | --------- |
