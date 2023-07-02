@@ -30,6 +30,7 @@
 |  **Tools**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/xcode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/androidstudio">]()   |
 |  **Database**    | [<img height="32" width="32" src="https://cdn.simpleicons.org/firebase">]() [<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite">]()|
 
+![Snake animation](https://github.com/{{tutunamayanlar2021}}/{{tutunamayanlar2021}}/blob/output/github-contribution-grid-snake.svg)
 
 
 
