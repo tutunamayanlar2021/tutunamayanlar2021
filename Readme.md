@@ -1,7 +1,7 @@
 # Hi I'm Kader 👋
 
 
-<p align="center">
+<p align="left">
   <img src="https://i.giphy.com/media/3o8dp4AJDl5aI4qqI0/giphy.webp" alt="Resim Açıklaması">
 </p>
 
