@@ -1,5 +1,6 @@
 # Hi I'm Kader 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tutunamayanlar2021&label=Profile%20views&color=0e75b6&style=flat" alt="tutunamayanlar2021" /> </p>
 
 <p align="center">
   <img src="https://media.tenor.com/knLw-Jlx8voAAAAC/welcome-to-my-profile-welcome.gif" alt="Resim Açıklaması" width="1000">
