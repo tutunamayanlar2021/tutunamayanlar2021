@@ -41,8 +41,10 @@
   <img src="https://github.com/tutunamayanlar2021/tutunamayanlar2021/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
 </p>
 
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tutunamayanlar2021&show_icons=true&locale=en&layout=compact&theme=dark" alt="tutunamayanlar2021" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tutunamayanlar2021&show_icons=true&locale=en&theme=dark" alt="tutunamayanlar2021" />
+</p>
 
 
 
